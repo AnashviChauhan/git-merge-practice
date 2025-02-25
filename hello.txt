@@ -1,1 +1,1 @@
-Hello from the fast forward branch
+Hello from fast-forward-branch
